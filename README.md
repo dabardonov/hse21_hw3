@@ -3,6 +3,7 @@
 https://github.com/dabardonov/hse21_hw3/blob/main/HW3_1.ipynb
 
 Ссылка на второй колаб:
+https://github.com/dabardonov/hse21_hw3/blob/main/HW3_2.ipynb
 
 ## MultiQC
 
@@ -24,4 +25,15 @@ https://github.com/dabardonov/hse21_hw3/blob/main/multiQC.html
 ## Таблица с результатами вычислений
 
 ![image](https://user-images.githubusercontent.com/93095449/144633373-7dfad841-5080-4999-a736-a60276ae5572.png)
+
+## Результаты обработки
+
+![image](https://user-images.githubusercontent.com/93095449/144662864-a87e071b-58c0-4669-931b-03b5ea7b73e3.png)
+
+![image](https://user-images.githubusercontent.com/93095449/144662942-4376d228-e42c-4408-af04-e5176c5814cb.png)
+
+![image](https://user-images.githubusercontent.com/93095449/144662994-c9c51253-9f25-4319-bd0d-70311d9a6949.png)
+
+![image](https://user-images.githubusercontent.com/93095449/144663061-c12072ed-c12b-490e-ad83-1f2fc537a796.png)
+
 
