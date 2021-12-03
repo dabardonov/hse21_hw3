@@ -21,3 +21,6 @@ https://github.com/dabardonov/hse21_hw3/blob/main/multiQC.html
 ![image](https://user-images.githubusercontent.com/93095449/144631282-a88b4bd0-8a57-48be-8f8d-75cca77db660.png)
 
 ## Таблица с результатами вычислений
+
+![image](https://user-images.githubusercontent.com/93095449/144633373-7dfad841-5080-4999-a736-a60276ae5572.png)
+
